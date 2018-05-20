@@ -1,0 +1,9 @@
+FÝZ107      Physics 1
+MAT106      Calculus 1
+ATA101      Ataturk Ilkeleri ve Inkýlap Tarihi
+CSE101      Computer Programming 1
+CSE109      English Writing Skills
+CSE181      Natural Sciences
+CSE281      Principles of User Interface Design
+TDB101      Turk Dili 1
+CSE122      Statistics for Engiineering
